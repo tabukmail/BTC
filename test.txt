@@ -2,3 +2,4 @@ test BTC
 LTC
 XBT
 ZIGZAG
+ARBIT
