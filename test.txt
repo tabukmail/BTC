@@ -1,5 +1,6 @@
 test BTC
 LTC
 XBT
+unicorn V1
 ZIGZAG
 ARBIT
